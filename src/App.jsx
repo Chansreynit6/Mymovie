@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Search from './components/Search.jsx';
-import MovieCard from './components/MovieCard.jsx';
+import MovieCard from "./components/MovieCard";
 
 const App = () => {
   const [searchTerm, setSearchTerm] = useState('');

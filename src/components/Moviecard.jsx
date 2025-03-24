@@ -1,5 +1,5 @@
 const MovieCard = ({ movie }) => {
-  // Just use the poster_path directly without any URL transformation
+  
   const imageUrl = movie.poster_path;
   
   const year = movie.release_date ? new Date(movie.release_date).getFullYear() : '';
