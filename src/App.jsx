@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import Search from './components/Search.jsx';
-import MovieCard from "./components/MovieCard"; // Ensure this matches exactly
+import MovieCard from "./components/MovieCard.jsx"
+
 
 
 const App = () => {
