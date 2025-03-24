@@ -11,7 +11,7 @@ const App = () => {
   const movieList = [
     {
         id: 1,
-        title: "Anime Movie",
+        title: "Anime Kiki's Delivery Service",
         poster_path: "./anime10.jpg", // Correct image path
         vote_average: 8.6,
         release_date: "2024-03-01",
@@ -19,7 +19,7 @@ const App = () => {
     },
     {
       id: 2,
-      title: "Godzilla x Kong: The New Empire",
+      title: "Oshi No Ko",
       poster_path: "./anime2.jpg",
       vote_average: 7.2,
       release_date: "2024-03-27",
@@ -27,7 +27,7 @@ const App = () => {
     },
     {
       id: 3,
-      title: "The Fall Guy",
+      title: " Weathering With You ",
       poster_path: "/anime3.jpg",
       vote_average: 7.1,
       release_date: "2024-05-03",
@@ -35,7 +35,7 @@ const App = () => {
     },
     {
       id: 4,
-      title: "Kung Fu Panda 4",
+      title: "Whisper of the Heart",
       poster_path: "./anime4.jpg",
       vote_average: 6.9,
       release_date: "2024-03-08",
@@ -43,7 +43,7 @@ const App = () => {
     },
     {
       id: 5,
-      title: "Ghostbusters: Frozen Empire",
+      title: "Ponyo",
       poster_path: "./anime5.jpg",
       vote_average: 7.3,
       release_date: "2024-03-22",
@@ -51,7 +51,7 @@ const App = () => {
     },
     {
       id: 6,
-      title: "Kingdom of the Planet of the Apes",
+      title: "Spirited Away",
       poster_path: "./anime6.jpg",
       vote_average: 7.4,
       release_date: "2024-05-10",
@@ -67,7 +67,7 @@ const App = () => {
     },
     {
       id: 8,
-      title: "The First Omen",
+      title: "Grave of the Fireflies",
       poster_path: "./anime9.jpg",
       vote_average: 7.2,
       release_date: "2024-04-05",
@@ -89,7 +89,7 @@ const App = () => {
     {
       $id: "trending3",
       title: "Kung Fu Panda 4",
-      poster_url: "./anime13.jpg"
+      poster_url: "./anime1.jpg"
     },
     {
       $id: "trending4",
